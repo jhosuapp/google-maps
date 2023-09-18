@@ -1,0 +1,26 @@
+[
+    {
+        "name_place": "Bogotá",
+        "description_place": "Jirión Union Lote 01, Lote 02, Lote 03 Manzana A (AA HH marginal Uyacali), Horario: Lun-Vie 8:0am -6:00pm / Sáb 9:00am - 5:00pm / Dom: 9:00am-1:00pm",
+        "lat": 4.6486206,
+        "lng": -74.2726206,
+        "route_image": "https://primax.com.pe/wp-content/uploads/2023/09/Rectangle-1574.jpg",
+        "service_stations" : [
+            {"gprix": true},
+            {"maxd": true},
+            {"bonus": false}
+        ]
+    },
+    {
+        "name_place": "Bogotá",
+        "description_place": "Jirión Union Lote 01, Lote 02, Lote 03 Manzana A (AA HH marginal Uyacali), Horario: Lun-Vie 8:0am -6:00pm / Sáb 9:00am - 5:00pm / Dom: 9:00am-1:00pm",
+        "lat": 4.6486206,
+        "lng": -74.2726206,
+        "route_image": "https://primax.com.pe/wp-content/uploads/2023/09/Rectangle-1574.jpg",
+        "service_stations" : [
+            {"gprix": true},
+            {"maxd": true},
+            {"bonus": false}
+        ]
+    }
+]
